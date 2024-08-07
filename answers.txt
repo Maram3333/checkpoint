@@ -1,0 +1,13 @@
+1/What is web development, and why is it essential in the context of the internet?
+.) the web development is all about building a websites  and making the websites look good ,function weel and stay secure .
+2/Have you heard of HTML? If yes, what does HTML stand for, and what is its primary purpose in web development?
+.)yes i heard about the HTML all i khow about it is a language who used to build the web .
+3/Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
+.) i don't khow about it 
+4/Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
+.)javascript is a programming language to make websites .
+ Play around with simple projects, like making buttons that change color or creating a small game.
+5/Are you familiar with React and Node.js? If yes, provide a brief description of what React and Node.js are commonly used for in web development.
+.) i dont khow
+6/Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
+.)the web development  isn’t just about picking up a new skill—it’s about opening up new possibilities for creativity, career opportunities, and personal growth. 
